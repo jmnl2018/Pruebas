@@ -1,8 +1,1 @@
-este archivo esta siendo modificado
-
-Cree este archivo
-prueba.txt
-
-
-Mas datos
-este archivo esta siendo modificado
+prueba de cruces
