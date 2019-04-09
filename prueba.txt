@@ -1,0 +1,10 @@
+ El volumen de la unidad D es AntDiscoD
+ El n£mero de serie del volumen es: B4F6-C599
+
+ Directorio de D:\pruebas
+
+09/04/2019  12:07 a. m.    <DIR>          .
+09/04/2019  12:07 a. m.    <DIR>          ..
+09/04/2019  12:07 a. m.                 0 prueba.txt
+               1 archivos              0 bytes
+               2 dirs   2,655,678,464 bytes libres
